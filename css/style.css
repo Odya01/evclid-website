@@ -54,6 +54,9 @@
   --active: #F7B045;
   --hover: #E1670E;
 }
+html {
+  scroll-behavior: smooth;
+}
 body{
   height: 100%;
 }
