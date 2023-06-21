@@ -626,6 +626,8 @@ html{
   transition-duration: .3s;
   transition-timing-function: ease;
 }
+.form__input,
+.form__area,
 .form__input::placeholder{
   color: var(--gray-2);
 }
